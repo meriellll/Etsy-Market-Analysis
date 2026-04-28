@@ -87,28 +87,24 @@ This indicates a clear gap for **better-structured, higher-value products**
 
 ---
 
-**Strategy**
+## Strategy
 
-Based on the analysis:
-
-- **Niche:** Weight loss / lifestyle tracking  
-- **Audience:** Beginners seeking structure and simplicity  
-- **Positioning:** Structured system (not generic planner)  
-- **Pricing Strategy:**
-  - Launch: $5.99–$6.99  
-  - Scale: $7.99–$9.99  
-
-> Final product concept intentionally not disclosed
-
+| Element | Decision |
+|--------|---------|
+| Niche | Weight loss / lifestyle tracking |
+| Audience | Beginners seeking structure and simplicity |
+| Positioning | Structured system (not generic planner) |
+| Pricing | Launch: $5.99–$6.99 → Scale: $7.99–$9.99 |
 ---
 
-**Success Metrics**
+## Success Metrics
 
-- Month 1: 4+ favorites (proof of interest)  
-- Month 3: 15+ favorites + 2 reviews (market average)  
-- Month 6: 36+ favorites + 5 reviews (top 10%)  
+| Stage | Target |
+|------|--------|
+| Month 1 | 4+ favorites (proof of interest) |
+| Month 3 | 15+ favorites + 2 reviews (market average) |
+| Month 6 | 36+ favorites + 5 reviews (top 10%) |
 
----
 
 **Tools Used**
 
