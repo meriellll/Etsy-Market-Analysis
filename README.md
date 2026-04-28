@@ -1,6 +1,7 @@
+
 * Etsy Market Analysis — Identifying a Profitable Product Opportunity
 
-**  Project Overview
+**Project Overview**
 
 This project analyzes ~3,800 Etsy listings to identify a high-opportunity niche and define a data-driven product strategy.
 
@@ -8,7 +9,7 @@ The goal was not just to explore the data, but to **translate insights into a cl
 
 ---
 
-** Objective
+**Objective**
 
 - Identify a profitable niche within Etsy digital products  
 - Understand demand vs competition dynamics  
@@ -16,7 +17,7 @@ The goal was not just to explore the data, but to **translate insights into a cl
 
 ---
 
-** Data
+**Data**
 
 - Source: EverBee Etsy exports  
 - Size: ~3,800 listings  
@@ -31,7 +32,7 @@ The goal was not just to explore the data, but to **translate insights into a cl
 
 ---
 
-** Methodology
+**Methodology**
 
 The analysis followed a structured approach:
 
@@ -47,7 +48,7 @@ The analysis followed a structured approach:
 
 ---
 
-**Key Insights
+**Key Insights**
 
 - The market is saturated at **low prices ($2–$7)**  
 - Most listings show **low or zero conversions**  
@@ -56,7 +57,7 @@ The analysis followed a structured approach:
 
 ---
 
-** Market Gap
+**Market Gap**
 
 Analysis of price vs demand revealed:
 
@@ -68,7 +69,7 @@ This indicates a clear gap for **better-structured, higher-value products**
 
 ---
 
-** Strategy
+**Strategy**
 
 Based on the analysis:
 
@@ -83,7 +84,7 @@ Based on the analysis:
 
 ---
 
-** Success Metrics
+**Success Metrics**
 
 - Month 1: 4+ favorites (proof of interest)  
 - Month 3: 15+ favorites + 2 reviews (market average)  
@@ -91,7 +92,7 @@ Based on the analysis:
 
 ---
 
-** Tools Used
+**Tools Used**
 
 - Python  
 - Pandas  
@@ -99,17 +100,17 @@ Based on the analysis:
 
 ---
 
-** Key Takeaway
+**Key Takeaway**
 
 This market is not limited by demand, but by **weak positioning and lack of structured solutions**.
 
 ---
 
-** Notes
+**Notes**
 
 This project focuses on **decision-making using data**, not just analysis.
 
 The full product execution is intentionally not included.
 
-**Market Gap Visualization
+**Market Gap Visualization**
 ![Market Gap](visuals/image.png) 
