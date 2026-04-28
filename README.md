@@ -111,4 +111,4 @@ This project focuses on **decision-making using data**, not just analysis.
 
 The full product execution is intentionally not included.
 
-![Market Gap](visuals/market-gap.png) 
+![Market Gap](visuals/image.png) 
