@@ -6,6 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+> **TL;DR:** Analyzed 3,800+ Etsy listings to uncover a high-opportunity gap in a saturated market and define a data-driven product strategy.
 
 **Project Overview**
 
