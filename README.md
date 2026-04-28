@@ -1,5 +1,5 @@
 
-* Etsy Market Analysis — Identifying a Profitable Product Opportunity
+# Etsy Market Analysis — Identifying a Profitable Product Opportunity
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
