@@ -8,6 +8,19 @@
 
 > **TL;DR:** Analyzed 3,800+ Etsy listings to uncover a high-opportunity gap in a saturated market and define a data-driven product strategy.
 
+## Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Objective](#-objective)
+- [Data](#-data)
+- [Methodology](#-methodology)
+- [Key Insights](#-key-insights)
+- [Market Gap](#-market-gap)
+- [Strategy](#-strategy)
+- [Success Metrics](#-success-metrics)
+- [Tools Used](#-tools-used)
+- [Conclusion](#-conclusion)
+
 **Project Overview**
 
 This project analyzes ~3,800 Etsy listings to identify a high-opportunity niche and define a data-driven product strategy.
