@@ -65,13 +65,14 @@ The analysis followed a structured approach:
 
 ---
 
-**Key Insights**
+## Key Insights
 
-- The market is saturated at **low prices ($2–$7)**  
-- Most listings show **low or zero conversions**  
-- High-performing products emphasize **structured solutions** (guides, lists, habit systems)  
-- Opportunity lies in **better positioning, not lower pricing**  
-
+| Insight | Explanation |
+|--------|------------|
+| Low-price saturation | Most listings cluster between $2–$7 |
+| Low conversions | Majority of listings have few or zero reviews |
+| Structure wins | High-performing products use guides, lists, habit systems |
+| Positioning > pricing | Competing on value is more effective than lowering price |
 ---
 
 **Market Gap**
