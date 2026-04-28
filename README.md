@@ -37,18 +37,15 @@ The goal was not just to explore the data, but to **translate insights into a cl
 
 ---
 
-**Data**
+## Data
 
-- Source: EverBee Etsy exports  
-- Size: ~3,800 listings  
-- Key features:
-  - Price  
-  - Total Favorites (demand signal)  
-  - Total Reviews (conversion proxy)  
-  - Keywords  
-  - Product titles  
-
-> Data was cleaned and processed using Python (Pandas)
+| Feature | Description |
+|--------|------------|
+| Price | Listing price (USD) |
+| Total Favorites | Number of users who favorited the listing |
+| Total Reviews | Number of reviews (proxy for conversions) |
+| Keyword | Search term used to find the listing |
+| Product Name | Listing title |
 
 ---
 
