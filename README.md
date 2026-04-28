@@ -1,6 +1,12 @@
 
 * Etsy Market Analysis — Identifying a Profitable Product Opportunity
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 **Project Overview**
 
 This project analyzes ~3,800 Etsy listings to identify a high-opportunity niche and define a data-driven product strategy.
