@@ -33,21 +33,17 @@ The goal was not just to explore the data, but to **translate insights into a cl
 
 - Identify a profitable niche within Etsy digital products  
 - Understand demand vs competition dynamics  
-- Define a strategic product positioning and pricing approach  
-
----
+- Define a strategic product positioning and pricing approach
 
 ## Data
 
 | Feature | Description |
 |--------|------------|
 | Price | Listing price (USD) |
-| Total Favorites | Number of users who favorited the listing |
-| Total Reviews | Number of reviews (proxy for conversions) |
+| Total Favorites | Number of users who favorited the listing (**demand signal**) |
+| Total Reviews | Number of reviews (**proxy for conversions**) |
 | Keyword | Search term used to find the listing |
 | Product Name | Listing title |
-
----
 
 **Methodology**
 
