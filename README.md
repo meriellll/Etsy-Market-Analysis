@@ -124,3 +124,14 @@ The full product execution is intentionally not included.
 
 **Market Gap Visualization**
 ![Market Gap](visuals/image.png) 
+
+## Project Structure
+
+```bash
+Etsy-Market-Analysis/
+│
+├── README.md
+├── analysis.ipynb
+└── visuals/
+    ├── market-gap.png
+    └── price-analysis.png
